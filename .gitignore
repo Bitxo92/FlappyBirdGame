@@ -1,0 +1,73 @@
+# Ignore compiled Java classes
+
+*.class
+
+
+# Ignore project build directories
+
+bin/
+
+out/
+
+
+# Ignore IntelliJ IDEA project files
+
+.idea/
+
+*.iml
+
+
+# Ignore Eclipse project files
+
+*.classpath
+
+*.project
+
+*.settings/
+
+
+# Ignore VSCode project files
+
+.vscode/
+
+
+# Ignore Mac system files
+
+.DS_Store
+
+
+# Ignore logs and temp files
+
+*.log
+
+*.tmp
+
+
+# Ignore any image files you might not want to push (optional)
+
+images/*.png
+
+images/*.jpg
+
+
+# Ignore generated files like jar or war
+
+*.jar
+
+*.war
+
+*.ear
+
+
+# Ignore Maven and Gradle directories (if you're using them)
+
+target/
+
+build/
+
+
+# Ignore Java temporary files
+
+*.swp
+
+
