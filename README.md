@@ -29,7 +29,7 @@ Flappy Bird is a simple, yet challenging arcade game where the player controls a
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE.md) file for more details.
 
 ## **Clone the repository:**
    ```bash
